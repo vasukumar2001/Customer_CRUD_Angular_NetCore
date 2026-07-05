@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CustomerApp.Api.Controllers.AdoNetCustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/adonet/customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerApp.Api.Controllers.AdoNetCustomersController",
+    "Method": "Add",
+    "RelativePath": "api/adonet/customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "CustomerApp.Api.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerApp.Api.Controllers.AdoNetCustomersController",
+    "Method": "GetById",
+    "RelativePath": "api/adonet/customers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerApp.Api.Controllers.AdoNetCustomersController",
+    "Method": "Update",
+    "RelativePath": "api/adonet/customers/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "customer",
+        "Type": "CustomerApp.Api.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerApp.Api.Controllers.AdoNetCustomersController",
+    "Method": "Delete",
+    "RelativePath": "api/adonet/customers/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

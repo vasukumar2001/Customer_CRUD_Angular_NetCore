@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\controllers\\adonetcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\controllers\\adonetcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\repositories\\adonetcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\repositories\\adonetcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\validations\\validemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\validations\\validemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|d:\\repos\\customerapi_adonet\\customerapp\\customerapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BE896-163B-72FC-9FDC-6D77C2A201AD}|CustomerApp\\CustomerApp.Api.csproj|solutionrelative:customerapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdoNetCustomerRepository.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Repositories\\AdoNetCustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Repositories\\AdoNetCustomerRepository.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Repositories\\AdoNetCustomerRepository.cs",
+              "RelativeToolTip": "CustomerApp\\Repositories\\AdoNetCustomerRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:27:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerApp\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:27:03.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidEmailAttribute.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Validations\\ValidEmailAttribute.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Validations\\ValidEmailAttribute.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Validations\\ValidEmailAttribute.cs",
+              "RelativeToolTip": "CustomerApp\\Validations\\ValidEmailAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:25:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerApp\\appsettings.json",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\appsettings.json",
+              "RelativeToolTip": "CustomerApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-04T11:27:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-04T11:33:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Program.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Program.cs",
+              "RelativeToolTip": "CustomerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:30:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdoNetCustomersController.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Controllers\\AdoNetCustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Controllers\\AdoNetCustomersController.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Controllers\\AdoNetCustomersController.cs",
+              "RelativeToolTip": "CustomerApp\\Controllers\\AdoNetCustomersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:29:18.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Models\\Customer.cs",
+              "ToolTip": "D:\\repos\\CustomerApi_ADONet\\CustomerApp\\CustomerApp\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:23:58.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
